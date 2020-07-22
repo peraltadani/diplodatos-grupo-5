@@ -1,10 +1,10 @@
 ## Repositorio del Grupo 5 para la asignatura Análisis Exploratorio y Curación de Datos.
 
-*Daniel Peralta
-*Nicolas E Ponce
-*Matias Ugrin
-*Agustin Mauras Velez
-*Norberto Arregui
+* Daniel Peralta
+* Nicolas E Ponce
+* Matias Ugrin
+* Agustin Mauras Velez
+* Norberto Arregui
 
 
 En la *carpeta notebook* se encuentran los siguientes ejercicios:
