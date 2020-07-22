@@ -1,13 +1,9 @@
 ## Repositorio del Grupo 5 para la asignatura Análisis Exploratorio y Curación de Datos.
 
 *Daniel Peralta
-
 *Nicolas E Ponce
-
 *Matias Ugrin
-
 *Agustin Mauras Velez
-
 *Norberto Arregui
 
 
